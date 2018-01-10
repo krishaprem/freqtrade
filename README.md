@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/gcarq/freqtrade/badge.svg?branch=develop&service=github)](https://coveralls.io/github/gcarq/freqtrade?branch=develop)
 
 
-Simple High frequency trading bot for crypto currencies designed to 
+Testing - Simple High frequency trading bot for crypto currencies designed to 
 support multi exchanges and be controlled via Telegram.
 
 ![freqtrade](https://raw.githubusercontent.com/gcarq/freqtrade/develop/docs/assets/freqtrade-screenshot.png)
